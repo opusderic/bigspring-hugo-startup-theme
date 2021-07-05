@@ -41,7 +41,7 @@ feature:
       
     # feature item loop
     - name : "Cloud Support"
-      icon : "fas fa-cloud"
+      icon : "fas fa-check-square"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
